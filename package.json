@@ -5,10 +5,10 @@
   "main": "index.js",
   "homepage": "https://adams892290.github.io/yts-clone",
   "scripts": {
-    "start": "react-scripts src/index.html",
+    "start": "react-scripts public/index.html",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build src/index.html"
+    "build": "react-scripts build public/index.html"
   },
   "keywords": [],
   "author": "",
