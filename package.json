@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://adams892290.github.io/yts-clone",
   "scripts": {
     "start": "parcel src/index.html",
     "predeploy": "npm run build",
@@ -20,6 +21,5 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  },
-  "homepage": "https://adams892290.github.io/yts-clone"
+  }
 }
